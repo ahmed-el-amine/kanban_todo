@@ -23,13 +23,13 @@ This project is a basic implementation of a Kanban-style todo list app, where us
 ## **Getting Started**
 
 1. Clone the repository: `git clone https://github.com/your-username/kanban-todo-app.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Open the app in your browser: `http://localhost:3000`
+2. Install dependencies: `pnpm i`
+3. Start the development server: `pnpm dev`
+4. Open the app in your browser: `http://localhost:5173`
 
 ## **Build and Deployment**
 
-1. Build the app for production: `npm run build`
+1. Build the app for production: `pnpm build`
 2. Deploy the app to your preferred hosting platform
 
 ## **License**
